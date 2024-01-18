@@ -1,0 +1,26 @@
+body
+{
+    background-color: lightblue;
+    letter-spacing: 0.7px;
+}
+.heading
+{
+    background-color: crimson !important;
+    color: white;
+    font-size: 30px;
+}
+p
+{
+    font-weight: bold;
+}
+.name_of_objects
+{
+    font-weight: bold;
+    font-size: 25px !important;
+}
+#camera , #result
+{ 
+    border: 3px dashed goldenrod;
+    height: 300px;
+    width: 350px;
+}
